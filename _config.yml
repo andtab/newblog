@@ -1,0 +1,11 @@
+# basic options
+title: My-awesome-blog
+author: tim h
+email: your-email@domain.com
+description: so good
+twitter_username: noneavailable
+github_username:  timh
+
+# Build settings
+markdown: kramdown
+theme: minima
